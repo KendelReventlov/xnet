@@ -9,8 +9,7 @@
   "author": "Eduardo Gracidas",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.2",
-    "parse": "^4.0.1"
+    "express": "^4.18.2"
   },
   "engines": {
     "node": ">=14"
