@@ -5,7 +5,7 @@ const port = 3000
 app.use(express.static("./front"));
 
 app.get('/', (req, res) => {
-  res.sendFile("index.html");
+  res.send("hola");
 })
 
 app.listen(port, () => {
